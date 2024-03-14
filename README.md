@@ -6,6 +6,13 @@ The aim of this project is to analyse Diwali sales on the basis of diffetent pro
 ##
 Firstly I have to import libraries such as pandas, NumPy, matplotlib and seaborn in jupyter notebook
 ## Data Cleaning
+To check the datatype of each column we are going to use df.info() [we have load our csv file in df] df.info() show the information such as column name, datatype, non-null count of rows, etc To delete any useless columns we run command df.drop([‘C1’,’C2'], axis=1, inplace=True)……….axis=1 is used for total row and inplace=True used for saving the changes
+
+After removal of useless columns, we have the raw data file but it is uncleaned and contains null values. To check that null values we have to run code using pandas as pd.isnull(df).sum() When any row has null values then to eliminate such null values we call command of pd.dropna(inplace=True)
+
+If we want to find min, max, avg, total, standard deviation, 25%, 50%, 75% etc we use df.describe()
+
+Now after cleaning data its time to analyze data So now we are going for
 # Exploratory Data Analysis (EDA)
 ## Gender
 ![Screenshot 2024-03-14 102455](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/0869d335-cff6-4a9e-be46-07b90588031c)
