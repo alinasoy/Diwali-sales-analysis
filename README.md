@@ -18,8 +18,9 @@ Firstly I have to import libraries such as pandas, NumPy, matplotlib and seaborn
 ![Screenshot 2024-03-14 102608](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/fd3b35a5-66ec-4c1b-b92a-a6815b702ec0)
 ## Marital Status
 ![Screenshot 2024-03-14 102629](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/e818b46a-a1d4-471f-8475-781785cf96b5)
-
+![Screenshot 2024-03-14 102738](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/9da966aa-ec06-4c26-8e84-e2941face6d5)
 ## Occupation
+![Screenshot 2024-03-14 102754](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/97218f22-20d8-4216-9e09-c0147bfdc42a)
 ![Screenshot 2024-03-14 102850](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/7ff374a1-01d3-4b55-868c-144206e4aa54)
 ## Product Category
 ![Screenshot 2024-03-14 102924](https://github.com/alinasoy/Diwali-sales-analysis/assets/127585848/5747e292-2731-4d71-b73a-36595d16cfb6)
